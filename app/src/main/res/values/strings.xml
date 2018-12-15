@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="strQty">Quantity</string>
+    <string name="strZero">0</string>
+    <string name="strOrder">Order</string>
+    <string name="strName">Name</string>
+    <string name="strToppings">Toppings</string>
+    <string name="strWhippedCream">Whipped Cream</string>
+    <string name="strChocolate">Chocolate</string>
+    <string name="strMax100PerOrder">Max 100 per order</string>
+    <string name="strYouCannotOrderLessThan1Coffee">You Cannot Order Less Than 1 Coffee</string>
+    <string name="strAdd">Add</string>
+    <string name="strTotal">Total</string>
+    <string name="strDollarSign">$</string>
+    <string name="strThankYou">Thank you</string>
+    <string name="strCoffee">Coffee</string>
+    <string name="strFor">For</string>
+</resources>

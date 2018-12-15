@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">그냥 자바</string>
+    <string name="strAdd">더하다</string>
+    <string name="strChocolate">초콜릿</string>
+    <string name="strCoffee">커피</string>
+    <string name="strDollarSign">$</string>
+    <string name="strFor">에 대한</string>
+    <string name="strMax100PerOrder">주문 당 최대 100</string>
+    <string name="strName">이름</string>
+    <string name="strOrder">주문</string>
+    <string name="strQty">수량</string>
+    <string name="strThankYou">고맙습니다</string>
+    <string name="strToppings">성분</string>
+    <string name="strTotal">합계</string>
+    <string name="strWhippedCream">휘핑 크림</string>
+    <string name="strYouCannotOrderLessThan1Coffee">커피 1 잔을 주문할 수 없습니다.</string>
+    <string name="strZero">0</string>
+</resources>
